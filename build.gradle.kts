@@ -1,3 +1,6 @@
+group = "com.kadenfrisk"
+version = "1.0-SNAPSHOT"
+
 val lwjglVersion = "3.3.3"
 val jomlVersion = "1.10.5"
 val `joml-primitivesVersion` = "1.10.0"
@@ -15,8 +18,6 @@ application {
     mainClass.set("App")
 }
 
-group = "com.kadenfrisk"
-version = "1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
